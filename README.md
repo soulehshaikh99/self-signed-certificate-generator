@@ -10,11 +10,11 @@ Download and experience the easiest way to generate <a href="https://en.wikipedi
 
 <h3>Windows 8.1:</h3>
 
-![4 all windows](https://user-images.githubusercontent.com/39525716/51493745-4807eb80-1ddc-11e9-97fb-1ca68ac941c0.png)
+![4 all windows](https://user-images.githubusercontent.com/39525716/51770830-098c6c80-210d-11e9-880d-210e88dd4f8d.png)
 
 <h3>Windows 10:</h3>
 
-![4 all windows](https://user-images.githubusercontent.com/39525716/51493916-cebcc880-1ddc-11e9-8825-a2740f2c86ae.png)
+![4 all windows](https://user-images.githubusercontent.com/39525716/51770860-2628a480-210d-11e9-9abf-40ce33876ee8.png)
 
 <h3>:pencil: Credits:</h3>
 
