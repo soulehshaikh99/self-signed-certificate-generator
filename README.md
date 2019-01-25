@@ -4,6 +4,8 @@ Download and experience the easiest way to generate <a href="https://en.wikipedi
 
 <strong>Note:</strong> This software only generates <a href="https://en.wikipedia.org/wiki/Self-signed_certificate">Self-Signed</a> Certificate.
 
+<h3>:construction_worker: Build for <a href="https://www.microsoft.com/en-in/windows">Windows</a> using <a href="https://dotnet.microsoft.com/download/thank-you/net472">.Net Framework 4.7.2</a></h3>
+
 <h3>:art: Screenshots: </h3>
 
 <h3>Windows 8.1:</h3>
