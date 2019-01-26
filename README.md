@@ -7,7 +7,7 @@ Download and experience the easiest way to generate <a href="https://en.wikipedi
 <br/>
 <h3>:cop: Security Offered :lock:</h3>
 
-<h4>:key: Public Key available:</h4>
+<h4>:key: Public Key Algorithms available:</h4>
 
 1) <a href="https://en.wikipedia.org/wiki/Elliptic-curve_cryptography">ECDSA</a> (521 Bits)
 
