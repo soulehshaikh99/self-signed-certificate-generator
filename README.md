@@ -44,5 +44,5 @@ b) (<a href="https://en.wikipedia.org/wiki/PKCS_1">PKCS #1</a> Padding)
 ![made with love from souleh](https://user-images.githubusercontent.com/39525716/51479571-a3be7e80-1db4-11e9-95ef-2f6ac0b43a3e.gif)
 
 <br/>
-<h3>:clipboard: License:</h3>
+<h3>:clipboard: License: </h3>
 Licensed under the <a href="https://github.com/soulehshaikh99/self-signed-certificate-generator/blob/master/LICENSE">MIT License</a>.
