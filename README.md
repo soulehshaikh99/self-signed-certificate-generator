@@ -21,7 +21,7 @@ b) (<a href="https://en.wikipedia.org/wiki/PKCS_1">PKCS #1</a> Padding)
 2) SHA384
 3) SHA512
 
-<h4>PFX File can be password-protected.</h4>
+<h4>:scroll: PFX File can be password-protected.</h4>
 <br/>
 <h3>:construction_worker: Build for <a href="https://www.microsoft.com/en-in/windows">Windows</a> using <a href="https://dotnet.microsoft.com/download/thank-you/net472">.Net Framework 4.7.2</a></h3>
 
